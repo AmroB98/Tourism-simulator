@@ -28,7 +28,7 @@
     - Calculated based on attraction points gained from all activities within a city
 
 ## Features:
-    - inserted cities can be edited by price or a customized attraction factor.
+    - inserted cities can be edited.
     - each simulation run will be counted as a unit of time (day)
     - Save feature which will save all initialized cities into a database file.
 ## To do list:
